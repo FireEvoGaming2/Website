@@ -1,0 +1,17 @@
+@font-face {
+    font-family: MC;
+    src: url(MinecraftTen-VGORe.ttf);
+}
+.title-1 {
+    font-family: MC;
+    /* margin-top: 50px; */
+    color: #754EF9;
+    -webkit-text-stroke: 2px black;
+    font-size: 5vw;
+    text-align: center;
+}
+.title-2 {
+    font-family: 'Lobster', cursive;
+    text-align: center;
+}
+
